@@ -1,1 +1,1 @@
-sudo openocd -f 68new.cfg
+sudo openocd -f 68old.cfg
